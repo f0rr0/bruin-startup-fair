@@ -1,0 +1,10 @@
+{
+  "name": "bsf2",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "modernizr": "~2.8.2",
+    "knobjs": "~0.0.3",
+    "jquery-throttle-debounce": "*"
+  }
+}
