@@ -13,9 +13,10 @@ html, body {
 }
 
 body {
-  background-image: url("/images/pattern.jpg");
+  background-image: url("/images/royce-overlay.png");
   background-repeat: no-repeat;
   background-size: cover;
+  overflow: hidden;
 }
 
 .wrapper {
